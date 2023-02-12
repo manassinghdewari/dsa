@@ -126,6 +126,17 @@ int normalMaxSum(int arr[],int n)
 // res=max(max_normal,max_circular)
 // res=max(8,12)
 // res=12
+
+// arr[] = {-5,-3}
+// max_normal=-3
+
+// if we remove the condition if(max_normal < 0 )
+
+// so arr_sum = -11
+// max_circular=-11+11=0
+// res=max(-3,0)=0
+
+//  so without this condition it is giving wrong answer
 int overallMaxSum(int arr[],int n)
 {
     int max_normal=normalMaxSum(arr,n);
