@@ -4,7 +4,7 @@
 // consecutive one.
 
 // not both at a time
-// but take care of flips should be minimu
+// but take care of flips should be minimum
 
 
 // ip:arr[]={1,0,0,0,1,0,0,1,1,1,1}
@@ -15,7 +15,7 @@
 // o/p: from 2 to 4
 
 // i/p:{1,1,1}
-// o/p:
+// o/p: 
 
 // i/p:{0,1}
 // o/p: from 0 to 0 
@@ -31,8 +31,14 @@
 // 11000111001
 // 00110001100
 
+// 101
+
+// it is obvious that if corner element are same 
+// then there will difference betweeen the pairs 
+// which is equal to 1.
+
 // in this also there is one more intresting fact that
-// is the difference between the groups will be one if
+// is the difference between the groups will be one(1) if
 // starting and ending element are same.
 
 // groups count are same  (difference is zero)
@@ -44,7 +50,7 @@
 // and ending element are not same.
 
 
-// if we will flip second group then  will get minimum
+// if we will flip second group then  always will get minimum
 // flips to make same
 
 // algorithm

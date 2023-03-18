@@ -79,7 +79,11 @@
 
 // efficient solution O(n)
 
+// *****************
+
 // standard kadane algorithm
+
+// *****************
 
 #include<iostream>
 #include<bits/stdc++.h>
