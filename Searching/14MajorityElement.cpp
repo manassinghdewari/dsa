@@ -1,0 +1,4 @@
+// Majority Element 
+
+
+// repeated problem 
