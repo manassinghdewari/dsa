@@ -44,6 +44,9 @@
 // 2-> both x and y are in right half
 // 3->x is in left half and y is in right half
 
+// countInv is doing 1st and 2nd task
+// count and merge is doing 3rd task
+
 #include<bits/stdc++.h>
 using namespace std;
 int countAndMerge(int arr[],int l,int m,int r)
