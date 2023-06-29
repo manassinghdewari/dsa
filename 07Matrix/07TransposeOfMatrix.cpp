@@ -3,6 +3,8 @@
 // in the traspose of matrix
 // we will run j from i+1 bcz in the traspose of matrix the
 // diagonal elements remains same
+
+// in O(1) extra space
 #include <bits/stdc++.h>
 using namespace std;
 

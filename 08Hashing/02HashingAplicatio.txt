@@ -1,0 +1,9 @@
+Application of Hashing
+1->Dictonary 
+2->Database Indexing
+3->Cryptography
+4->Caches
+5->Symbol Table in compiler /Interpreter
+6->Routers
+7->Getting data from database
+8->Many more 
