@@ -31,4 +31,19 @@
 // now we will discuss the prblem with linear probing 
 // Clustering
 
+// to solve thhhis problem we will use quadratic probing
+// it also cause clusters but that are know as clusters
+// the clusters are here named as secondary clusters
+
+
+// here the equation is hash(key,i)=(h(key)+i^2)%m;
+// h(key)=key%7;
+// quadratic probing will give answer 100%
+// when 1-> alpha(n/m) <0.5 
+// m is a prime
+
+// another solution is double hashing
+// equation for the double hashhing
+// key(hashh,i)=(h(key)+i&hh2(key))%m
+
 
