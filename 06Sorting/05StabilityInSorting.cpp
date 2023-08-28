@@ -14,10 +14,10 @@
 // arr[]={("Anil",50),("Piyush",50),("Ayan",80),("Ramesh",80)}
 
 
-// stable sorts:
+// stable sorts:(BMI)
 // 1-> Bubble Sort
-// 2-> Insertion Sort
-// 3-> Merge Sort
+// 2-> Merge Sort
+// 3-> Insertion Sort
 
 // unstable sorts:
 // 1-> Selection Sort
