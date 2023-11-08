@@ -3,7 +3,7 @@
 // 1- Require one traversal and thetha(h) extra space
 // for the recursive traversal
 
-// 2- Assume that both n1 and n2 exisyt in the tree.
+// 2- Assume that both n1 and n2 exist in the tree.
 // Does not give correct results when only one (n1 or n2 ) exists 
 
 
